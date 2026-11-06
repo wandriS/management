@@ -1,0 +1,6 @@
+{
+  "name": "Portal Autentikasi",
+  "description": "Portal autentikasi terpadu untuk Single Sign-On (SSO), verifikasi dua langkah (2FA), passkey biometrik, pemulihan akun, dan manajemen sesi aman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
